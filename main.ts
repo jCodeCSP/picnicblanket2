@@ -156,3 +156,4 @@ picnicFood.setImage(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `)
+let text_list = ["a", "b", "c"]
